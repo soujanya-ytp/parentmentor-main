@@ -1,0 +1,19 @@
+# Node / frontend dependencies
+frontend/node_modules/
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+
+# Local environment files
+.env
+.env.local
+
+# Local databases
+*.db
+
+# Frontend build output
+frontend/dist/
+
+# OS/editor clutter
+.DS_Store

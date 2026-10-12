@@ -1,0 +1,77 @@
+
+> parentmentor-frontend@0.0.1 dev
+> vite --host 0.0.0.0
+
+
+  VITE v5.4.21  ready in 124 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.118:5173/
+  ➜  Network: http://172.17.0.1:5173/
+  ➜  press h + enter to show help
+9:49:58 AM [vite] hmr update /src/App.jsx, /src/styles/main.css, /src/components/LoginModal.jsx, /src/pages/DashboardPage.jsx, /src/pages/RoutineSetupPage.jsx, /src/pages/ChatPage.jsx, /src/pages/ChildModePage.jsx, /src/pages/AnalyticsPage.jsx
+9:49:58 AM [vite] Pre-transform error: Failed to load url /src/services/api.js (resolved id: /home/soujanyabandari/Documents/parentmentor/frontend/src/services/api.js) in /home/soujanyabandari/Documents/parentmentor/frontend/src/App.jsx. Does the file exist?
+9:49:58 AM [vite] Pre-transform error: Failed to load url /src/services/api.js (resolved id: /home/soujanyabandari/Documents/parentmentor/frontend/src/services/api.js) in /home/soujanyabandari/Documents/parentmentor/frontend/src/App.jsx. Does the file exist?
+9:49:58 AM [vite] Pre-transform error: Failed to load url /src/services/api.js (resolved id: /home/soujanyabandari/Documents/parentmentor/frontend/src/services/api.js) in /home/soujanyabandari/Documents/parentmentor/frontend/src/App.jsx. Does the file exist?
+9:49:58 AM [vite] Pre-transform error: Failed to load url /src/services/api.js (resolved id: /home/soujanyabandari/Documents/parentmentor/frontend/src/services/api.js) in /home/soujanyabandari/Documents/parentmentor/frontend/src/App.jsx. Does the file exist?
+9:49:58 AM [vite] Pre-transform error: Failed to load url /src/services/api.js (resolved id: /home/soujanyabandari/Documents/parentmentor/frontend/src/services/api.js) in /home/soujanyabandari/Documents/parentmentor/frontend/src/App.jsx. Does the file exist?
+9:49:58 AM [vite] Pre-transform error: Failed to load url /src/services/api.js (resolved id: /home/soujanyabandari/Documents/parentmentor/frontend/src/services/api.js) in /home/soujanyabandari/Documents/parentmentor/frontend/src/App.jsx. Does the file exist?
+9:49:58 AM [vite] Pre-transform error: Failed to load url /src/services/api.js (resolved id: /home/soujanyabandari/Documents/parentmentor/frontend/src/services/api.js) in /home/soujanyabandari/Documents/parentmentor/frontend/src/App.jsx. Does the file exist?
+9:50:41 AM [vite] hmr update /src/App.jsx, /src/styles/main.css, /src/components/LoginModal.jsx, /src/pages/DashboardPage.jsx, /src/pages/RoutineSetupPage.jsx, /src/pages/ChatPage.jsx, /src/pages/ChildModePage.jsx, /src/pages/AnalyticsPage.jsx
+9:50:44 AM [vite] hmr update /src/styles/main.css
+9:50:52 AM [vite] hmr update /src/styles/main.css
+9:50:55 AM [vite] hmr update /src/components/LoginModal.jsx, /src/styles/main.css
+9:51:25 AM [vite] hmr update /src/components/LoginModal.jsx
+9:51:28 AM [vite] hmr update /src/components/LandingPage.jsx, /src/styles/main.css
+9:52:00 AM [vite] hmr update /src/components/LandingPage.jsx
+9:52:03 AM [vite] hmr update /src/App.jsx, /src/styles/main.css
+9:52:23 AM [vite] hmr update /src/App.jsx
+9:52:27 AM [vite] hmr update /src/components/ChildForm.jsx, /src/styles/main.css
+9:52:50 AM [vite] hmr update /src/components/ChildForm.jsx
+9:52:54 AM [vite] hmr update /src/components/ChildList.jsx, /src/styles/main.css
+9:53:12 AM [vite] hmr update /src/components/ChildList.jsx
+9:53:16 AM [vite] hmr update /src/components/ResponseView.jsx, /src/styles/main.css
+9:53:27 AM [vite] hmr update /src/components/ResponseView.jsx
+9:53:35 AM [vite] hmr update /src/pages/DashboardPage.jsx, /src/styles/main.css
+9:54:58 AM [vite] hmr update /src/pages/DashboardPage.jsx
+9:55:16 AM [vite] hmr update /src/pages/ChatPage.jsx, /src/styles/main.css
+9:55:56 AM [vite] hmr update /src/pages/ChatPage.jsx
+9:56:00 AM [vite] hmr update /src/pages/RoutineSetupPage.jsx, /src/styles/main.css
+9:57:03 AM [vite] hmr update /src/pages/RoutineSetupPage.jsx
+9:57:09 AM [vite] hmr update /src/pages/ChildModePage.jsx, /src/styles/main.css
+9:58:01 AM [vite] hmr update /src/pages/ChildModePage.jsx
+10:00:42 AM [vite] hmr update /src/pages/AnalyticsPage.jsx, /src/styles/main.css
+10:00:45 AM [vite] hmr update /src/components/AppShell.jsx, /src/styles/main.css
+10:01:16 AM [vite] hmr update /src/components/AppShell.jsx
+10:21:31 AM [vite] hmr update /src/pages/DashboardPage.jsx, /src/styles/main.css
+10:22:27 AM [vite] hmr update /src/pages/ChildModePage.jsx, /src/styles/main.css
+10:22:37 AM [vite] hmr update /src/pages/RewardsPage.jsx, /src/styles/main.css
+10:31:05 AM [vite] hmr update /src/components/LoginModal.jsx, /src/styles/main.css
+10:31:19 AM [vite] hmr update /src/components/LoginModal.jsx, /src/styles/main.css
+10:31:28 AM [vite] hmr update /src/components/LoginModal.jsx, /src/styles/main.css
+10:40:35 AM [vite] hmr update /src/styles/main.css
+10:41:08 AM [vite] hmr update /src/components/AppShell.jsx, /src/styles/main.css
+10:42:16 AM [vite] hmr update /src/components/LandingPage.jsx, /src/styles/main.css
+10:42:48 AM [vite] hmr update /src/components/LoginModal.jsx, /src/styles/main.css
+10:46:13 AM [vite] hmr update /src/pages/DashboardPage.jsx, /src/styles/main.css
+10:47:31 AM [vite] hmr update /src/pages/ChildrenPage.jsx, /src/styles/main.css
+10:47:53 AM [vite] hmr update /src/components/ChildForm.jsx, /src/styles/main.css
+10:48:13 AM [vite] hmr update /src/components/ChildList.jsx, /src/styles/main.css
+10:49:38 AM [vite] hmr update /src/pages/ChatPage.jsx, /src/styles/main.css
+10:50:24 AM [vite] hmr update /src/components/ResponseView.jsx, /src/styles/main.css
+10:53:01 AM [vite] hmr update /src/pages/RoutineSetupPage.jsx, /src/styles/main.css
+10:54:15 AM [vite] hmr update /src/pages/ActivitiesPage.jsx, /src/styles/main.css
+10:55:54 AM [vite] hmr update /src/pages/RewardsPage.jsx, /src/styles/main.css
+10:56:36 AM [vite] hmr update /src/pages/AnalyticsPage.jsx, /src/styles/main.css
+10:58:29 AM [vite] hmr update /src/pages/ChildModePage.jsx, /src/styles/main.css
+11:19:00 AM [vite] hmr update /src/pages/ChildrenPage.jsx, /src/styles/main.css
+11:19:27 AM [vite] hmr update /src/components/AppShell.jsx, /src/styles/main.css
+11:22:38 AM [vite] hmr update /src/pages/DashboardPage.jsx, /src/styles/main.css
+11:22:50 AM [vite] hmr update /src/pages/DashboardPage.jsx, /src/styles/main.css
+11:22:58 AM [vite] hmr update /src/pages/DashboardPage.jsx, /src/styles/main.css
+11:24:24 AM [vite] hmr update /src/pages/ChildModePage.jsx, /src/styles/main.css
+11:30:23 AM [vite] hmr update /src/pages/RewardsPage.jsx, /src/styles/main.css
+11:31:00 AM [vite] hmr update /src/pages/RewardsPage.jsx, /src/styles/main.css
+11:31:15 AM [vite] hmr update /src/pages/RewardsPage.jsx, /src/styles/main.css
+11:31:47 AM [vite] hmr update /src/pages/RewardsPage.jsx, /src/styles/main.css
+11:32:09 AM [vite] hmr update /src/pages/RewardsPage.jsx, /src/styles/main.css
